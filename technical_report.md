@@ -42,6 +42,11 @@ Inventory was simulated over 120 days with constant demand. Parameters generated
 
 **[Inventory Level Plots: EOQ Inventory System - Impact of Different Lead Times](./images/inventory-level-visualization.jpg)**
 
+### D. Parametric Design
+A bin was modeled in FreeCAD with parametric dimensions, mounting holes, and labels using the spreadsheet workbench.
+
+[Placeholder: FreeCAD Screenshots]
+
 ## III. Results
 EOQ = 241.5 units; reorder point varied with lead time. Plots illustrated stockout risks or excess holding with mismatched lead times, confirming optimal performance near 9-day delivery time.
 
@@ -65,4 +70,4 @@ The project integrated computational and design tools to demonstrate effective i
 [Full Python Script](./python/inventory_level_visualizer.py)
 
 **B. FreeCAD Model**  
-[FreeCAD Parametric Bin Model](./freecad/storage_bin.FCStd) | [Screenshots](./freecad/screenshots/)
+[FreeCAD Parametric Bin Model](./freecad/Parametric_Gridfinity_Baseplate.FCStd) | [Screenshots](./freecad/screenshots/)
